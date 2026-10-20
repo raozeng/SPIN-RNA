@@ -1,0 +1,21 @@
+Sequence,Secondary_Structure,MFE,True_Label,Predicted_Prob,Predicted_Label,Type,Severity
+AGAACAAAAAAAAAAAAAAAACACUUAAACUUUGUUAGGAC,.......................(((((......)))))..,-0.9,1.0,0.01807506,0,False Negative,0.98192495
+UUUCUAUUUUAUUAUCUGGGACAUAUUUAAAUACAAACAUA,.........................................,0.0,1.0,0.01847211,0,False Negative,0.98152786
+AUUUACACAACAAGAUAAUGACAUCUCCAGCUUUUAAGUUG,............((((......)))).(((((....))))),-2.9,1.0,0.020687696,0,False Negative,0.9793123
+UUUUUAACUUUACAGAUAAAACAAAAAUGAUCUACACAGCU,.........................................,0.0,1.0,0.020935532,0,False Negative,0.97906446
+GACAGCACCCGCGGGGCCGGACAGCGGCUUCACCAGCCCCG,...........((((((.((............)).)))))),-13.1,0.0,0.9731516,1,False Positive,0.9731516
+UGCCAGAUCCUGCGCCCGUGACAGCACGGGCGUGCACUCAG,...........(((((((((....)))))))))........,-17.6,0.0,0.9725547,1,False Positive,0.9725547
+CAAGCCCCUCGCCGCUCCGAACAGCCAAUCCGGGCCGAGCA,...((((......(((......)))......))))......,-8.5,0.0,0.97161,1,False Positive,0.97161
+GGGGCGCGGUGCGGGCGGCUACAGGGCCGGACGGGAGUUCC,(((((.(.((.(((.(........).))).)).)..))))),-16.5,0.0,0.9714405,1,False Positive,0.9714405
+GGCGUGGUGAAUCGAUGGGGACAGUGCCGCGGCCACCUGUC,((((.((((..(((.(((........)))))).)))))))),-12.3,0.0,0.97025293,1,False Positive,0.97025293
+UCGAGGACUGCCUGGUGCCGACAGCCUCUUUGGGCACUGAG,...(((....)))((((((.(.((...)).).))))))...,-11.4,0.0,0.9691293,1,False Positive,0.9691293
+CUGGCUGCUAACAUGAUCUUACAUACCAUACAUUUGCAUUU,.....(((...........................)))...,-0.4,1.0,0.032542028,0,False Negative,0.96745795
+AAUAAUACAUUCAGUUUCUCACAUUUUAUGCUUUCAUCUAU,.........................................,0.0,1.0,0.033051133,0,False Negative,0.96694887
+UAUCUAUACCACAAGCAACCACAUCAAAUAUGCUGUCACCA,.............((((.............)))).......,-1.7,1.0,0.033729684,0,False Negative,0.9662703
+CUCAACCGCAGACCGGAUCUACAGCAGGAACCUGCUUCCUU,..............(((.....(((((....))))))))..,-7.7,0.0,0.96556014,1,False Positive,0.96556014
+GGAGACGCCCGAGCCCGCGGACACAGAGGACCUCACUUGCG,.....(((..(((.((.(.......).))..)))....))),-5.0,0.0,0.9650504,1,False Positive,0.9650504
+UAGCCUCUGAUAUCAUAACCACAAGAUAUUUUAAAUCAACA,........((((((..........))))))...........,-2.2,1.0,0.0354722,0,False Negative,0.9645278
+AGAUCUUCUCAACUUACUGAACAUUUAAAAACUCACACUGC,((((.(((..........))).))))...............,-0.2,1.0,0.036796503,0,False Negative,0.9632035
+UUUAUAAAUAUUUUUGCAGAACACUAUUCUAAUUGAACAAU,.................((((.....))))...........,-0.1,1.0,0.038990352,0,False Negative,0.9610096
+CAUCUAUCUAGCCCGGACCGACAGCCAGAGUGCCAGCGUCU,..........((..(.(((........).)).)..))....,-3.3,0.0,0.9605445,1,False Positive,0.9605445
+UGGAAGGUGGCAAAGACGGAACAGGAUCCUGCGAGCCUGUC,....((((.(((.....(((......))))))..))))...,-8.2,0.0,0.95944095,1,False Positive,0.95944095
